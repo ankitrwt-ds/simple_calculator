@@ -29,23 +29,37 @@ This project was created to strengthen Android development fundamentals, includi
 
 ---
 
-## 📷 Screenshots
+## 📷 Application Screenshots
+
+The following screenshots demonstrate the application's user interface and calculation workflow.
+
+### Splash Screen
+
+![Splash Screen](screenshots/splash_screen.png)
+
+---
 
 ### Home Screen
 
-![Home](screenshots/calculator_home.png)
+![Home Screen](screenshots/home_screen.png)
 
 ---
 
 ### Addition Example
 
-![Addition](screenshots/addition.png)
+**Expression:** 8 + 2
+
+![Addition Example](screenshots/addition_example.png)
 
 ---
 
-### Subtraction Example
+### Result
 
-![Subtraction](screenshots/subtraction.png)
+**Output:** 10
+
+![Addition Result](screenshots/addition_result.png)
+
+This example demonstrates the calculator successfully performing an addition operation.
 
 ---
 
@@ -97,13 +111,12 @@ git clone https://github.com/ankitrwt-ds/simple_calculator.git
 ## 🔮 Future Improvements
 
 - Scientific Calculator
+- Calculation History
 - Dark Mode
-- History Feature
-- Percentage Calculation
-- Square Root
-- Memory Functions
-- Better UI using Material Design
-
+- Unit Converter
+- Currency Converter
+- Improved Material Design UI
+- Enhanced Error Handling
 ---
 
 ## 👨‍💻 Author
